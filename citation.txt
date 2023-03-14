@@ -1,0 +1,7 @@
+@inproceedings{REPO-053,
+    author = "Duriakova, Erika and Tragos, Elias Z and Smyth, Barry and Hurley, Neil and Pe{\\textasciitilde n}a, Francisco J and Symeonidis, Panagiotis and Geraci, James and Lawlor, Aonghus",
+    booktitle = "Proceedings of the 13th ACM Conference on Recommender Systems",
+    pages = "457--461",
+    title = "{PDMFRec: A Decentralised Matrix Factorisation with Tunable User-centric Privacy}",
+    year = "2019"
+}
